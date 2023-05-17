@@ -10,11 +10,6 @@ Members :- Abhay, Akanksha, Payal, Ankit.
 
 
 Project Report:- 
-
-
-Contents
-1) Summary
-2) Devlopment
  SUMMARY
 “Know IITR” is an augmented reality-based app specifically created for visitors to IIT Roorkee. Its purpose
 is to address the challenges faced by visitors when navigating the campus and understanding the
@@ -30,7 +25,8 @@ the app, enhancing their understanding of the campus and its structures.
 This app “Know IITR” provides visitors to IIT Roorkee with a unique and interactive way to navigate the
 campus, explore significant buildings, and gain valuable insights into the rich history and architectural
 marvels that define the institution.
- DEVLOPMENT
+
+DEVLOPMENT
 
 The App is Completely Made Using Unity, the 3d Model was made using Blender and the following SDKs
 were Used:-
@@ -69,6 +65,7 @@ technologies and tools collectively contribute to creating an engaging and immer
 experience for users exploring IIT Roorkee.
 
 External Software Used
+
 1. READY PLAYER ME:
 Ready Player me was used to upload the Avatar Model
 in unity in current scene.By Ready player me, we can
@@ -108,7 +105,7 @@ Following models were used:
 ![B2](https://github.com/ariesiitr/Know-IITR/assets/98599869/6eb73987-da24-4ad3-ada0-641af915cb12)
 
 
-
+The Project Workflow
 
 ![Workflow](https://github.com/ariesiitr/Know-IITR/assets/98599869/a7555b4e-df78-46ba-b00f-4de230b30df4)
 
